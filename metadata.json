@@ -1,0 +1,6 @@
+{
+  "name": "نور الصلاة | مواقيت الصلاة والأذان والقرآن",
+  "description": "تطبيق إسلامي شامل لمواقيت الصلاة الدقيقة، تنبيهات الأذان، أذكار الصلاة، التقويم الهجري والميلادي، والمصحف الشريف",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
